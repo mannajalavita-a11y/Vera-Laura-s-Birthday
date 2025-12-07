@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mio-invito//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:invito-veralaura-001
+DTSTAMP:20251207T120000Z
+DTSTART:20251220T190000Z
+DTEND:20251221T050000Z
+SUMMARY:Festa di Compleanno della mia migliore amica Vera Laura 🎉
+DESCRIPTION:Buon compleanno a me! Vi aspetto a partire dalle ore 20:00...tutti eleganti, mi raccomando! Dove? È un segreto! XOXO Vera Laura. Conferma qui la tua presenza: https://forms.gle/ELYF49qR96kRmqQb9
+LOCATION:Unknown
+END:VEVENT
+
+END:VCALENDAR
